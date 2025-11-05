@@ -49,13 +49,20 @@ Brie Carre – $12K
  # By analyzing the data from the past year, I was able to:
 
 - Identify top-selling pizza categories and days of the week
+
 - Optimize inventory and staffing levels
+  
 - Develop targeted marketing campaigns
+  
 - Improve overall sales and revenue
 
  # Conclusion & Recommendations
 -Focus on Classic and Chicken pizzas — they drive most of the revenue.
+
 -Promote sales during weekdays to balance the weekend-heavy pattern.
+
 -Use seasonal promotions in slower months (Oct–Dec) to sustain volume.
+
 -Continue offering Large pizzas, as they have the highest contribution margin.
+
 -Review and possibly rework low-performing pizzas (e.g., Brie Carre, Spinach Supreme).
